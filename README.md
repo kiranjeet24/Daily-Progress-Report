@@ -4,9 +4,10 @@ Date : 8-Feb-2022
 <h3 align='center'>Introduction to Github pages</h3>
 
 - Getting Information What is GitHub Pages.
-- Create a new repository on GitHub.
+- Create a New Repository on GitHub.
 - Setting Repository as the main branch and setting a theme for GitHub pages.
-- Learning about Personal access tokens for push Local Repository on GitHub
+- Learning about Personal access tokens for push Local Repository on GitHub.
+- Learning Syntax of Markdown Language in GitHub.
 
 
 
