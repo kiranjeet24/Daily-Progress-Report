@@ -1,12 +1,18 @@
 <h1 align="center">Daily-Online-Blog</h1>
 
-<p align='left'>Date : 8-Feb-2022</p>
-```
+Date : 8-Feb-2022 
+<h3 align='center'>Introduction to Github pages</h3>
 
-```
+- Getting Information What is GitHub Pages.
+- Create a new repository on GitHub.
+- Setting Repository as the main branch and setting a theme for GitHub pages.
+- Learning about Personal access tokens for push Local Repository on GitHub
 
 
 
+
+
+<!--
 ## Welcome to GitHub Pages
 
 - Numbered
@@ -49,3 +55,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
