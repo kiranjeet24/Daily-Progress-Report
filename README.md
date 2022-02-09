@@ -13,21 +13,24 @@ Date : 1-Feb-2022
 - Select where to install alongside window or Erase disk or something else.
 - Then Click next and start ubuntu installation.
 - For More detail about Installation Guide [Click here](https://phoenixnap.com/kb/install-ubuntu-20-04)
+<br/>
 
 Date : 2-Feb-2022 
-<h3 align='center'>Introduction to Github Pages</h3>
+<h3 align='center'>Introduction to LAMP Stack</h3>
+
+
 
 Date : 3-Feb-2022 
-<h3 align='center'>Introduction to Github Pages</h3>
+<h3 align='center'>Run Cgi Script</h3>
 
 Date : 4-Feb-2022 
-<h3 align='center'>Introduction to Github Pages</h3>
+<h3 align='center'>Image to video</h3>
 
 Date : 5-Feb-2022 
-<h3 align='center'>Introduction to Github Pages</h3>
+<h3 align='center'>Introduction to frappe</h3>
 
 Date : 7-Feb-2022 
-<h3 align='center'>Introduction to Github Pages</h3>
+<h3 align='center'>creating app and site & run on local server</h3>
 
 Date : 8-Feb-2022 
 <h3 align='center'>Introduction to Github Pages</h3>
