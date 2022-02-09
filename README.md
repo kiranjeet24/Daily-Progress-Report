@@ -1,4 +1,4 @@
-//<h1 align="center">Daily-Online-Blog</h1>
+<!--<h1 align="center">Daily-Online-Blog</h1>-->
 
 Date : 8-Feb-2022 
 <h3 align='center'>Introduction to Github Pages</h3>
