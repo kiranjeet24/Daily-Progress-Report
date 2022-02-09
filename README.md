@@ -12,7 +12,7 @@ Date : 1-Feb-2022
 - Select Install Ubuntu then Click Noraml Installation.
 - Select where to install alongside window or Erase disk or something else.
 - Then Click next and start ubuntu installation.
-- [For More detail about Installation](https://phoenixnap.com/kb/install-ubuntu-20-04)
+- For More detail about Installation Guide [Click here](https://phoenixnap.com/kb/install-ubuntu-20-04)
 
 Date : 2-Feb-2022 
 <h3 align='center'>Introduction to Github Pages</h3>
