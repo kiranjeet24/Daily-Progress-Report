@@ -1,7 +1,7 @@
 <h1 align="center">Daily-Online-Blog</h1>
 
 Date : 8-Feb-2022 
-<h3 align='center'>Introduction to Github pages</h3>
+<h3 align='center'>Introduction to Github Pages</h3>
 
 - Getting Information What is GitHub Pages.
 - Create a New Repository on GitHub.
