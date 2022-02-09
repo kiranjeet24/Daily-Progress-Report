@@ -3,11 +3,16 @@
 Date : 1-Feb-2022 
 <h3 align='center'>Introduction to Linux & Installing Ubuntu</h3>
 
+<p align="justify">Linux is an open-source operating system like other operating systems such as Microsoft Windows, Apple Mac OS, iOS, Google android, etc. An operating system is a software that enables the communication between computer hardware and software. It conveys input to get processed by the processor and brings output to the hardware to display it. This is the basic function of an operating system.</p>
+
 - Download the linux distribution of your choice.
 - Creating Boot pendrive using rufus.exe in windows.
 - Restart the system and open boot menu using boot key. (Eg.- F8, F2 etc.)
-- Select your boot device in boot menu
-- 
+- Select your boot device in boot menu.
+- Select Install Ubuntu then Click Noraml Installation.
+- Select where to install alongside window or Erase disk or something else.
+- Then Click next and start ubuntu installation.
+- [For More detail about Installation](https://phoenixnap.com/kb/install-ubuntu-20-04)
 
 Date : 2-Feb-2022 
 <h3 align='center'>Introduction to Github Pages</h3>
