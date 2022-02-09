@@ -15,4 +15,4 @@ Date : 9-Feb-2022
 - What is Reveal.JS, Pandoc, Use Markdown in Reveal.js.
 - Creating Presentation in Reveal.JS using Markdown only.
 - Learn how to show presentation on Local machine.
-- Converting .ms file into .pdf file using Pandoc.
+- Converting .md file into .pdf file using Pandoc.
