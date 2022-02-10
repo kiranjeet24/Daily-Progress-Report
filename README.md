@@ -1,5 +1,3 @@
-<!--<h1 align="center">Daily-Online-Blog</h1>-->
-
 Date : 1-Feb-2022 
 <h3 align='center'>Introduction to Linux & Installing Ubuntu</h3>
 
