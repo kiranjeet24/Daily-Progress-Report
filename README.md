@@ -96,5 +96,20 @@
 **Date : 10-Feb-2022** 
 <h3 align='center'>Introduction to Docker, Virtual Machine and ERPNext</h3>
 
+**What is Docker?**
+<p align="justify">Docker is popular virtualization software that helps its users in developing, deploying, monitoring, and running applications in a Docker Container with all their dependencies. Docker containers include all dependencies (frameworks, libraries, etc.) to run an application in an efficient and bug-free manner.Docker Containers are Light-weight, Applications run in isolation,Occupies less space, Easily portable and highly secure, Short boot-up
+time.</p>
+- It can run multiple containers on a system.
+- It can start multiple containers at a time on the Docker engine.
+
+**What is Virtual Machine?**
+<p align="justify">A virtual machine (VM) is a computing environment or software that aids developers to access an operating system via a physical machine.</p>
+- It can start only a single VM on a VMX.
+- It can run only a limited number of VMs on a system.
+
+**What is ERPNext?**
+<p align="justify">ERPNext is a full-featured business management solution that helps SMEs to record all their business transactions in a single system. With ERPNext, SMEs can make informed, fact-based, timely decisions to remain ahead in the competition. It serves as the backbone of a business adding strength, transparency, and control to your growing enterprise.</p>
+
 <br>
+
 <!----------------------------------------------------------------------------------------------------------------------------->
