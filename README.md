@@ -77,5 +77,5 @@ Date : 9-Feb-2022
 <br/>
 
 Date : 10-Feb-2022 
-<h3 align='center'>Introduction to Reveal.JS, Pandoc, Use of Markdown in Reveal.js</h3>
+<h3 align='center'>Introduction Docker, Virtual Machine and ERPNext</h3>
 <br/>
