@@ -13,12 +13,12 @@ Date : 1-Feb-2022
 - Select where to install alongside window or Erase disk or something else.
 - Then Click next and start ubuntu installation.
 - For More detail about Installation Guide [Click here](https://phoenixnap.com/kb/install-ubuntu-20-04)
-<br/>
+<br>
 
 Date : 2-Feb-2022 
 <h3 align='center'>Introduction to LAMP Stack</h3>
 
-The LAMP stack is a popular open-source solution stack used primarily in web development.LAMP consists of four components necessary to establish a fully functional web development environment. The first letters of the components' names make up the LAMP acronym:
+<p alihn="center">The LAMP stack is a popular open-source solution stack used primarily in web development.LAMP consists of four components necessary to establish a fully functional web development environment. The first letters of the components' names make up the LAMP acronym:</p>
 
 - Linux is an operating system used to run the rest of the components.
 - Apache HTTP Server is a web server software used to serve static web pages.
