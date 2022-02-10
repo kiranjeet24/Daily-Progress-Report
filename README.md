@@ -62,7 +62,7 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 7-Feb-2022**
-<h3 align='center'>Creating app and site & run on local server in Frappe</h3>
+<h3 align='center'>Creating App and Site & run on local server in Frappe</h3>
 
 - Start Bench in one Terminal.
 - In Second Terminal.
