@@ -29,7 +29,8 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 3-Feb-2022 **
+
+**Date : 3-Feb-2022**
 <h3 align='center'>Run Cgi Script</h3>
 
 <p align="justify">CGI stands for Common Gateway Interface. CGI defines a standard way in which information may be passed to and from the browser and server. Any program or script that can process information according to the CGI specification can, in theory, be used to code a CGI script.</p>
@@ -39,11 +40,11 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 4-Feb-2022 **
+**Date : 4-Feb-2022**
 <h3 align='center'>Image to video</h3>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 5-Feb-2022 **
+**Date : 5-Feb-2022**
 <h3 align='center'>Introduction to frappe</h3>
 
 <p align="justify">Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.</p>
@@ -54,7 +55,7 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 7-Feb-2022 **
+**Date : 7-Feb-2022**
 <h3 align='center'>Creating app and site & run on local server in Frappe</h3>
 - Start Bench in one Terminal.
 - In Second Terminal.
@@ -64,7 +65,7 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Date : 8-Feb-2022 **
+**Date : 8-Feb-2022**
 <h3 align='center'>Introduction to Github Pages</h3>
 
 - Getting Information What is GitHub Pages.
