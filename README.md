@@ -50,3 +50,7 @@ Date : 9-Feb-2022
 - Learn how to show presentation on Local machine.
 - Converting .md file into .pdf file using Pandoc.
 <br/>
+
+Date : 10-Feb-2022 
+<h3 align='center'>Introduction to Reveal.JS, Pandoc, Use of Markdown in Reveal.js</h3>
+<br/>
