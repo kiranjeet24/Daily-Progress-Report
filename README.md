@@ -43,6 +43,13 @@
 **Date : 4-Feb-2022**
 <h3 align='center'>Image to video</h3>
 
+- Create a python Script.
+- install pip,Image-MagicK on your system.
+- goto ---- /etc/ImageMagick-6/policy.xml file. 
+- Comment out line "policy domain="path" rights="none" pattern="@*" 
+- Run the script by using python3 filename.py.
+<br>
+
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 5-Feb-2022**
 <h3 align='center'>Introduction to frappe</h3>
@@ -57,10 +64,11 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 7-Feb-2022**
 <h3 align='center'>Creating app and site & run on local server in Frappe</h3>
+
 - Start Bench in one Terminal.
 - In Second Terminal.
-- Creating App by using _bench new-app library_management_ inside Frappe-bench Directory.
-- Creating site by using _bench new-site library.test_ inside Frappe-bench Directory.
+- Creating App by using **bench new-app library_management** inside Frappe-bench Directory.
+- Creating site by using **bench new-site library.test** inside Frappe-bench Directory.
 - Run Site on Localhost by using library.test custom port name.
 <br>
 
@@ -87,7 +95,7 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 10-Feb-2022** 
-<h3 align='center'>Introduction Docker, Virtual Machine and ERPNext</h3>
+<h3 align='center'>Introduction to Docker, Virtual Machine and ERPNext</h3>
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
