@@ -16,7 +16,7 @@ Date : 1-Feb-2022
 Date : 2-Feb-2022 
 <h3 align='center'>Introduction to LAMP Stack</h3>
 
-<p alihn="center">The LAMP stack is a popular open-source solution stack used primarily in web development.LAMP consists of four components necessary to establish a fully functional web development environment. The first letters of the components' names make up the LAMP acronym:</p>
+<p align="justify">The LAMP stack is a popular open-source solution stack used primarily in web development.LAMP consists of four components necessary to establish a fully functional web development environment. The first letters of the components' names make up the LAMP acronym:</p>
 
 - Linux is an operating system used to run the rest of the components.
 - Apache HTTP Server is a web server software used to serve static web pages.
@@ -27,6 +27,8 @@ Date : 2-Feb-2022
 
 Date : 3-Feb-2022 
 <h3 align='center'>Run Cgi Script</h3>
+
+<p align="justify">CGI stands for Common Gateway Interface. CGI defines a standard way in which information may be passed to and from the browser and server. Any program or script that can process information according to the CGI specification can, in theory, be used to code a CGI script.</p>
 
 Date : 4-Feb-2022 
 <h3 align='center'>Image to video</h3>
