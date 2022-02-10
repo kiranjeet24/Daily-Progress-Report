@@ -29,7 +29,6 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-
 **Date : 3-Feb-2022**
 <h3 align='center'>Run Cgi Script</h3>
 
@@ -79,7 +78,7 @@
 - Getting Information What is GitHub Pages.
 - Create a New Repository on GitHub.
 - Setting Repository as the main branch and setting a theme for GitHub pages.
-- Learning about Personal access tokens for push Local Repository on GitHub.
+"policy domain="path" rights="none" pattern="@*"- Learning about Personal access tokens for push Local Repository on GitHub.
 - Learning Syntax of Markdown Language in GitHub.
 <br>
 
