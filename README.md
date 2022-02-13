@@ -129,6 +129,6 @@ time.</p>
 <h3 align='center'>Introduction to Selenium, Budibase, Coding standard for program</h3>
 - Selenium is browser automation tool by which you can create a script which automatically done task like fill credential and click for search.
 - Budibase is a development platform designed for speed and productivity. 
-- With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.
-- How to write code in Any script so that it can easily read by other programmer who contribute to your project, take variable name which should be relevant with its function.
+- <p align="justify">With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.</p>
+- <p align="justify">How to write code in Any script so that it can easily read by other programmer who contribute to your project, take variable name which should be relevant with its function.</p>
 <br>
