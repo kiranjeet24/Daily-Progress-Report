@@ -97,7 +97,7 @@
 <h3 align='center'>Introduction to Docker, Virtual Machine and ERPNext</h3>
 
 **What is Docker?**
-<p align="justify">Docker is popular virtualization software that helps its users in developing, deploying, monitoring, and running applications in a Docker Container with all their dependencies. Docker containers include all dependencies (frameworks, libraries, etc.) to run an application in an efficient and bug-free manner.Docker Containers are Light-weight, Applications run in isolation,Occupies less space, Easily portable and highly secure, Short boot-up
+<p align="justify">Docker is popular virtualization software that helps its users in developing, deploying, monitoring, and running applications in a Docker Container with all their dependencies (frameworks, libraries, etc.) to run an application in an efficient and bug-free manner.Docker Containers are Light-weight, Applications run in isolation,Occupies less space, Easily portable and highly secure, Short boot-up
 time.</p>
 - It can run multiple containers on a system.
 - It can start multiple containers at a time on the Docker engine.
@@ -114,3 +114,21 @@ time.</p>
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 11-Feb-2022** 
+<h3 align='center'>Installing ERPNext in Frappe-bench</h3>
+
+- If Frappe-bench installed in system follow second method otherwise you will get error.
+- Installion done with two manner 
+- By Adduser in linux
+- And create Erpnext app and site in frappe-bench Diretory.
+- For installation steps [Click here](https://github.com/D-codE-Hub/ERPNext-installation-Guide/blob/main/README.md). 
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 12-Feb-2022** 
+<h3 align='center'>Introduction to Selenium, Budibase, Coding standard for program</h3>
+- Selenium is browser automation tool by which you can create a script which automatically done task like fill credential and click for search.
+- Budibase is a development platform designed for speed and productivity. 
+- With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.
+- How to write code in Any script so that it can easily read by other programmer who contribute to your project, take variable name which should be relevant with its function.
+<br>
