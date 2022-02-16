@@ -132,3 +132,15 @@ time.</p>
 - <p align="justify">With Budibase, developers no-longer experience repetition, long-dev cycles, and frustration. Instead, developers are more productive, happier, and can deliver applications they're proud of in minutes.</p>
 - <p align="justify">How to write code in Any script so that it can easily read by other programmer who contribute to your project, take variable name which should be relevant with its function.</p>
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 14-Feb-2022** 
+<h3 align='center'>Try to Solve error redis-server during Installation</h3>
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 15-Feb-2022** 
+<h3 align='center'>Introduction to Education module in Erpnext</h3>
+
+<br>
