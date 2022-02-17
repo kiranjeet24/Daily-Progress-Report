@@ -151,6 +151,7 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 17-Feb-2022** 
-<h3 align='center'>Introduction to  </h3>
-
+<h3 align='center'>Introduction to Jinja Templating</h3>
+<p align='justify'>Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.</p>
+- 
 <br>
