@@ -136,11 +136,21 @@ time.</p>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 14-Feb-2022** 
 <h3 align='center'>Try to Solve error redis-server during Installation</h3>
+**error while loading shared libraries: libatomic.so.1: cannot open shared object file: No such file or directory**
+- sudo apt purge libatomic1.
+- install houncho  if file is missing.
 
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 15-Feb-2022** 
 <h3 align='center'>Introduction to Education module in Erpnext</h3>
+<p align="justify">The Education domain in ERPNext is designed to meet requirements of any organization which imparts knowledge and believe in doing so in an organized fashion. It has already been used at schools, colleges and even in private firms.
+It helps you to effectively manage administration and allows you to focus on what is most important for your institute, to educate!</p>
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 17-Feb-2022** 
+<h3 align='center'>Introduction to  </h3>
 
 <br>
