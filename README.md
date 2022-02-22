@@ -163,3 +163,29 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Still it gives permission error try to solve it.
 
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 19-Feb-2022** 
+<h3 align='center'>Working with server</h3>
+- Resetting the password of server.
+- Trying to install Erpnext on server.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 21-Feb-2022** 
+<h3 align='center'>Mysql Administration, Converting pdf to md file</h3>
+- Today I created a new doctype in erpnext with different options
+- then learned about the administration concept of database
+- Converting pdf file to md and applying changes using markdown.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 22-Feb-2022** 
+<h3 align='center'>Mysql Administration, Converting pdf to md file</h3>
+- Today I created a new doctype in erpnext with different options
+- then learned about the administration concept of database
+- Converting pdf file to md and applying changes using markdown.
+
+<br>
