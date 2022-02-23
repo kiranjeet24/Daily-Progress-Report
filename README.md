@@ -183,9 +183,8 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 22-Feb-2022** 
-<h3 align='center'>Mysql Administration, Converting pdf to md file</h3>
-- Today I created a new doctype in erpnext with different options
-- then learned about the administration concept of database
-- Converting pdf file to md and applying changes using markdown.
+<h3 align='center'>Add new user in ubuntu</h3>
+- Add new user in ubuntu.
+- trying to give access of database to other user.
 
 <br>
