@@ -188,3 +188,19 @@ It helps you to effectively manage administration and allows you to focus on wha
 - trying to give access of database to other user.
 
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 23-Feb-2022** 
+<h3 align='center'>How to use ssh</h3>
+- Login to Server, Try to help other member to install ldap on server.
+- Apply different permission related queries on database for different user.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 24-Feb-2022** 
+<h3 align='center'>Learning about how to import data in erpnext from csv file</h3>
+- Try to import data in erpnext app throught csv file.
+- Apply pagination in erpnext webpage.
+
+<br>
