@@ -207,7 +207,7 @@ It helps you to effectively manage administration and allows you to focus on wha
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 25-Feb-2022** 
-<h3 align='center'>Import data in Mysql</h3>
+<h3 align='center'>Import Data in Mysql</h3>
 - Try to import data in MariaDB throught csv file.
 - Learning the concept of permission on Server.
 
