@@ -204,3 +204,19 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Apply pagination in erpnext webpage.
 
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 25-Feb-2022** 
+<h3 align='center'>Import data in Mysql</h3>
+- Try to import data in MariaDB throught csv file.
+- Learning the concept of permission on Server.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 28-Feb-2022** 
+<h3 align='center'>Creating Web page in ErpNext</h3>
+- Creating Static Webpage on Erpnext.
+- Learning Frappe School Module.
+
+<br>
