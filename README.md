@@ -220,3 +220,12 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Learning Frappe School Module.
 
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 2-Mar-2022** 
+<h3 align='center'>Learn Module from Frappe School</h3>
+- Creating new site with new app.
+- Creating Doctype and linking doctype with other.
+- Learn Jinja Script for frappe doctypes. 
+
+<br>
