@@ -229,3 +229,45 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Learn Jinja Script for frappe doctypes. 
 
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 3-Mar-2022** 
+<h3 align='center'>Learn Meeting App</h3>
+- Understand the structure of meeting app.
+- Understand the javascript code and python code of meeting app.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 4-Mar-2022** 
+<h3 align='center'>Presentation and discussion of meeting app</h3>
+- Telling about the importance of doctype in Frappe-Framework.
+- Discuss with all team how it works and how we create new custom app.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 5-Mar-2022** 
+<h3 align='center'>Creating own Noticeboard app</h3>
+- First create App and install it on website.
+- Create Doctype according to structure discussed in team.
+- Provide it web view.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 7-Mar-2022** 
+<h3 align='center'>Customize Noticeboard app</h3>
+- Writing code to show correct date format eg. March 7, 2022.
+- Writing code to show the name of user who upload the notice.
+- Making its view user friendly in form and webpage both.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 8-Mar-2022** 
+<h3 align='center'>Learning about built in Note Doctype</h3>
+- Today I'm Differentiate between Noticeboard app and inbuilt note app.
+- Trying to understand note doctype functionality.
+
+<br>
