@@ -271,3 +271,18 @@ It helps you to effectively manage administration and allows you to focus on wha
 - Trying to understand note doctype functionality.
 
 <br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 9-Mar-2022** 
+<h3 align='center'>Learning about Workflow</h3>
+- Today I'm learning Workflow in ErpNext.
+- Understand how to pass control to different manager.
+- Trying to implement Purchase order list and trying to approve it from purchase manager and material manager.
+
+<br>
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Date : 11-Mar-2022** 
+<h3 align='center'></h3>
+
+<br>
