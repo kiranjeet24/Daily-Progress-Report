@@ -16,25 +16,19 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 2-Feb-2022** 
-<h3 align='center'>Introduction to LAMP Stack</h3>
+<h3 align='center'>Introduction to Ldap</h3>
 
-<p align="justify">The LAMP stack is a popular open-source solution stack used primarily in web development.LAMP consists of four components necessary to establish a fully functional web development environment. The first letters of the components' names make up the LAMP acronym:</p>
+<p align="justify">Companies store usernames, passwords, email addresses, printer connections, and other static data within directories. LDAP is an open, vendor-neutral application protocol for accessing and maintaining that data. LDAP can also tackle authentication, so users can sign on just once and access many different files on the server.</p>
 
-- Linux is an operating system used to run the rest of the components.
-- Apache HTTP Server is a web server software used to serve static web pages.
-- MySQL is a relational database management system used for creating and managing web databases, but also for data warehousing, application logging, e-commerce, etc.
-- PHP, Perl, and Python are programming languages are used to create web applications.
-- Installing lamp on Ubuntu System.
-- Verifying by run LAMP on localhost.
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Date : 3-Feb-2022**
-<h3 align='center'>Run Cgi Script</h3>
+<h3 align='center'>Introduction to ldap account manager(LAM)</h3>
 
-<p align="justify">CGI stands for Common Gateway Interface. CGI defines a standard way in which information may be passed to and from the browser and server. Any program or script that can process information according to the CGI specification can, in theory, be used to code a CGI script.</p>
+<p align="justify">LDAP Account Manager is a web application for managing various account types in an LDAP directory. It is written in PHP. In contrast to tools like PhpLDAPadmin the focus is account based and to give the user a more abstract view of a directory.</p>
 
-- Create a cgi scirpt.
+- Install ldap and ldap account
 - Run it on Localhost using Apache Server.
 <br>
 
